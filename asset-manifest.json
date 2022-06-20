@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/sims/static/css/main.d6dafe1d.css",
-    "main.js": "/sims/static/js/main.484fd9d8.js",
-    "static/js/787.eaf11eef.chunk.js": "/sims/static/js/787.eaf11eef.chunk.js",
-    "static/media/logo.png": "/sims/static/media/logo.f0b20c4263a0cbe6204c.png",
-    "index.html": "/sims/index.html",
-    "main.d6dafe1d.css.map": "/sims/static/css/main.d6dafe1d.css.map",
-    "main.484fd9d8.js.map": "/sims/static/js/main.484fd9d8.js.map",
-    "787.eaf11eef.chunk.js.map": "/sims/static/js/787.eaf11eef.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.d6dafe1d.css",
-    "static/js/main.484fd9d8.js"
-  ]
+  "main.css": "/sims/static/css/main.c6b7f8d0.chunk.css",
+  "main.js": "/sims/static/js/main.d76d566f.chunk.js",
+  "main.js.map": "/sims/static/js/main.d76d566f.chunk.js.map",
+  "static/js/1.f03b5bc4.chunk.js": "/sims/static/js/1.f03b5bc4.chunk.js",
+  "static/js/1.f03b5bc4.chunk.js.map": "/sims/static/js/1.f03b5bc4.chunk.js.map",
+  "static/js/2.ba66e17f.chunk.js": "/sims/static/js/2.ba66e17f.chunk.js",
+  "static/js/2.ba66e17f.chunk.js.map": "/sims/static/js/2.ba66e17f.chunk.js.map",
+  "runtime~main.js": "/sims/static/js/runtime~main.d451f29d.js",
+  "runtime~main.js.map": "/sims/static/js/runtime~main.d451f29d.js.map",
+  "static/media/logo.png": "/sims/static/media/logo.16143289.png",
+  "static/css/main.c6b7f8d0.chunk.css.map": "/sims/static/css/main.c6b7f8d0.chunk.css.map",
+  "index.html": "/sims/index.html",
+  "precache-manifest.417b0115b8390416a461a3d4fd2adbd1.js": "/sims/precache-manifest.417b0115b8390416a461a3d4fd2adbd1.js",
+  "service-worker.js": "/sims/service-worker.js"
 }
