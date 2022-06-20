@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/sims/static/css/main.d6dafe1d.css",
-    "main.js": "/sims/static/js/main.5e925fd1.js",
+    "main.js": "/sims/static/js/main.484fd9d8.js",
     "static/js/787.eaf11eef.chunk.js": "/sims/static/js/787.eaf11eef.chunk.js",
     "static/media/logo.png": "/sims/static/media/logo.f0b20c4263a0cbe6204c.png",
     "index.html": "/sims/index.html",
     "main.d6dafe1d.css.map": "/sims/static/css/main.d6dafe1d.css.map",
-    "main.5e925fd1.js.map": "/sims/static/js/main.5e925fd1.js.map",
+    "main.484fd9d8.js.map": "/sims/static/js/main.484fd9d8.js.map",
     "787.eaf11eef.chunk.js.map": "/sims/static/js/787.eaf11eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6dafe1d.css",
-    "static/js/main.5e925fd1.js"
+    "static/js/main.484fd9d8.js"
   ]
 }
