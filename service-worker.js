@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sims/precache-manifest.640c3c76f0954a4ecd3490b940b54ca1.js"
+  "/sims/precache-manifest.5eaff440c52de56f27c98b0ce337684c.js"
 );
 
 workbox.clientsClaim();
